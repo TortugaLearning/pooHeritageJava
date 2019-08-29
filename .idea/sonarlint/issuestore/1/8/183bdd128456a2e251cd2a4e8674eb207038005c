@@ -1,0 +1,5 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ―μ8ΧΎγ›Ν-
+Osquid:UselessParenthesesCheck"!Remove these useless parentheses.(ψ…Ϊρόÿÿÿÿ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(α³Ψόÿÿÿÿ

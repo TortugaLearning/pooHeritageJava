@@ -1,0 +1,45 @@
+
+Z
+*src/com/boite/entity/Boitesauxlettres.java,9/b/9b50e62b74153630143d0d8ef3afe2ed5aad9f46
+O
+src/com/boite/entity/Colis.java,8/6/864ab90c1e287d20ee2458b8d68f2238e2fd9601
+L
+src/com/boite/main/Main.java,9/d/9db85feaa89db5db787004aef5d5fcf6415c0691
+P
+ src/com/boite/entity/Lettre.java,7/b/7bd4a1dd73ef3aa911179b2cca4bc8ddecd37124
+a
+1src/com/direction/service/SecretairesService.java,b/1/b1bd6259209080623f3cc670552f6ea045e5ba79
+S
+#src/com/boite/entity/Publicite.java,1/8/183bdd128456a2e251cd2a4e8674eb207038005c
+T
+$src/com/direction/service/Utils.java,3/e/3e1b767a89cf60ff397aefac287b07b7383f762d
+S
+#src/com/direction/service/Data.java,b/8/b84f497c84032e71e0a4116d478eab22ac228ed9
+`
+0src/com/direction/service/EnseignantService.java,3/7/379f5b6299894f11f481ba063e836752156c8193
+e
+5src/com/direction/service/EtudiantEchangeService.java,b/8/b80397bae9ea29b00b99f2d968c11ed780ed6acf
+P
+ src/com/direction/main/Main.java,4/1/41b14382c845891f7aa01f114796ec8d97e4fe1d
+R
+"src/com/direction/entity/Base.java,6/9/691988f78bea4843919aa95781bea088ee91ea22
+X
+(src/com/direction/entity/Enseignant.java,0/7/07e4ef62bc71d07e71405eb038e10adb5eaaa2a4
+U
+%src/com/direction/entity/Employe.java,e/c/ec732377133f878f018b291b09991246968404cf
+V
+&src/com/direction/entity/Etudiant.java,5/4/54e041d6df98682961de8bdf82a09291b6070529
+]
+-src/com/direction/entity/EtudiantEchange.java,7/3/7366d4f2509adea51d23c1cb9781243c898930ca
+f
+6src/com/direction/service/EtudiantRegulierService.java,c/4/c48c9814b3248f5f9a8dfad75dbf77004fd0d550
+W
+'src/com/boite/service/UtilsService.java,c/2/c2dad5dee14d8faec5e67c8433d5429d2c93ad40
+W
+'src/com/boite/service/ColisService.java,f/8/f82b1e1a2e72d3c7977e576581ae4448686ec79c
+[
++src/com/boite/service/PubliciteService.java,2/3/23fe2e554c63f162888de286dce92daecbf2f4c0
+V
+&src/com/boite/service/DataService.java,b/1/b1a8714e17dde834148ce58a9a025877f20babfc
+X
+(src/com/boite/service/LettreService.java,8/0/805dbac089ff86c1a296bad0fb58a14971bc4a35

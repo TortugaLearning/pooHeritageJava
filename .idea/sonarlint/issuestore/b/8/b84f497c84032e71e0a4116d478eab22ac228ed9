@@ -1,0 +1,10 @@
+
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(èİâÑ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(£Ë¼ßşÿÿÿÿ
+[squid:UselessImportCheck
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ş„Ü™Í-
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(üÏş˜
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(´ó¼
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ş„Ü™Í-
